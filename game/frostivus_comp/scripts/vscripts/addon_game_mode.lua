@@ -28,10 +28,7 @@ end
 -- Evaluate the state of the game
 function CAddonTemplateGameMode:OnThink()
 	if GameRules:State_Get() == DOTA_GAMERULES_STATE_GAME_IN_PROGRESS then
-<<<<<<< HEAD
 		--print( "Template addon script is running." )
-=======
->>>>>>> 5a09772c2de945985e708667afb7fbb647556717
 	elseif GameRules:State_Get() >= DOTA_GAMERULES_STATE_POST_GAME then
 		return nil
 	end
