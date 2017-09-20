@@ -1,4 +1,5 @@
 -- Generated from template
+LinkLuaModifier( "green_greevil_heal_passive_modi", LUA_MODIFIER_MOTION_NONE )
 
 if CAddonTemplateGameMode == nil then
 	CAddonTemplateGameMode = class({})
@@ -21,6 +22,13 @@ function CAddonTemplateGameMode:OnNPCSpawned( keys )
 		if not npc:GetAbilityByIndex(1):IsTrained() then
 			npc:GetAbilityByIndex(1):SetLevel(1)
 		end
+	end
+
+
+
+	if npc:GetClassname() == "npc_greevil_master_greevil" then
+		npc:AddNewModifier(npc, nil, "green_greevil_heal_passive_modi", {})
+		print("done")
 	end
 end
 

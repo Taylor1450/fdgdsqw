@@ -20,6 +20,6 @@ function green_greevil_heal:OnSpellStart()
 		return
 	end
 
-	hTarget:AddNewModifier(hCaster, self, "green_greevil_heal_modi",{})
+	hTarget:AddNewModifier(hCaster, self, "green_greevil_heal_modi",{duration = 5})
 
 end

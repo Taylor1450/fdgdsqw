@@ -15,7 +15,7 @@
 		"ModelScale" 				"1.25"
 
 		"Ability1"					"green_greevil_heal"			
-		"Ability2"					""			
+		"Ability2"					"green_greevil_heal_passive"			
 		"Ability3"					""			
 		"Ability4"					""			
 
@@ -37,7 +37,7 @@
 		"MovementSpeed"				"270"					
 
 		
-		"StatusHealth"				"75"		
+		"StatusHealth"				"1000"		
 		"StatusHealthRegen"			"0"		
 		"StatusMana"				"0"			
 		"StatusManaRegen"			"0.0"				 
