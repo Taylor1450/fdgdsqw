@@ -16,7 +16,7 @@
 
 		"Ability1"					"green_greevil_heal"			
 		"Ability2"					"green_greevil_heal_passive"			
-		"Ability3"					""			
+		"Ability3"					"green_greevil_die_passive"			
 		"Ability4"					""			
 
 		

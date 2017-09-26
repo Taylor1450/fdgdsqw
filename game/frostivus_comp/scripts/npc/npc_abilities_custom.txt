@@ -72,5 +72,16 @@
 
 	}
 
+	"green_greevil_die_passive"
+	{
+		"BaseClass"             		"ability_lua"
+		"ScriptFile"					"green_greevil_die_passive"
+
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO"
+
+	}
 
 }

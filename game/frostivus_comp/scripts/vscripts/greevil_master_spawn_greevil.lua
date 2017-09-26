@@ -1,5 +1,5 @@
 greevil_master_spawn_greevil = class({})
-LinkLuaModifier( "green_greevil_heal_passive_modi", LUA_MODIFIER_MOTION_NONE )
+LinkLuaModifier( "green_greevil_die_passive_modi", LUA_MODIFIER_MOTION_NONE )
 
 
 function greevil_master_spawn_greevil:GetCooldown( nLevel)
@@ -20,5 +20,6 @@ function greevil_master_spawn_greevil:OnSpellStart()
 	greev = CreateUnitByName("npc_greevil_master_greevil", hCaster:GetAbsOrigin(), true, hCaster, hCaster, hCaster:GetTeam())		
 	greev:SetControllableByPlayer(hCaster:GetPlayerOwnerID(), true)
 	greev:AddNewModifier(greev, nil, "green_greevil_heal_passive_modi", {})
+	greev:AddNewModifier(greev, nil, "green_greevil_die_passive_modi", {})
 
 end

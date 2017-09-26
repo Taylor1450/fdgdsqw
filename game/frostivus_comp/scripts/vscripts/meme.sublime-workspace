@@ -1,0 +1,1570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"DOTA_UNIT_TARGET_tEAM",
+				"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+			],
+			[
+				"h",
+				"hTarget"
+			],
+			[
+				"gethealth",
+				"GetHealthPercent"
+			],
+			[
+				"gettarget",
+				"GetCursorTarget"
+			],
+			[
+				"getplayer",
+				"GetPlayerOwner"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pl",
+				"player1"
+			],
+			[
+				"tra",
+				"translateZ()"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bro",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mari",
+				"margin-right"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"player2item",
+				"player2itemcharges"
+			],
+			[
+				"player1item",
+				"player1itemcharges"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"scale",
+				"scale3d()"
+			],
+			[
+				"sca",
+				"scaleX()"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"x",
+				"translateX()"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"test",
+				"testPrint"
+			],
+			[
+				"regist",
+				"RegisterCommand"
+			],
+			[
+				"player1c",
+				"player1couritems"
+			],
+			[
+				"playte",
+				"player1team"
+			],
+			[
+				"ra",
+				"rand2"
+			],
+			[
+				"getcurre",
+				"GetCurrentXP"
+			],
+			[
+				"getname",
+				"GetName"
+			],
+			[
+				"getnam",
+				"GetName"
+			],
+			[
+				"createunit",
+				"CreateUnitByName"
+			],
+			[
+				"swap",
+				"swapHeroes"
+			],
+			[
+				"getcoold",
+				"GetCooldownTimeRemaining"
+			],
+			[
+				"getteam",
+				"GetTeam"
+			],
+			[
+				"geteam",
+				"GetTeam"
+			],
+			[
+				"Getmodifer",
+				"GetModifierValue	No Description Set"
+			],
+			[
+				"addmod",
+				"AddNewModifier"
+			],
+			[
+				"player2p",
+				"player2points"
+			],
+			[
+				"getxp",
+				"GetCurrentXP"
+			],
+			[
+				"Getass",
+				"GetAssignedHero	Get the player's hero."
+			],
+			[
+				"Player",
+				"PlayerResource"
+			],
+			[
+				"player",
+				"player1items"
+			],
+			[
+				"game",
+				"GameRules"
+			],
+			[
+				"DAMAG",
+				"DAMAGE_TYPE_PURE"
+			],
+			[
+				"gette",
+				"GetTeamNumber"
+			],
+			[
+				"ene",
+				"enemy"
+			],
+			[
+				"registerc",
+				"RegisterConvar"
+			],
+			[
+				"getint",
+				"GetInt"
+			],
+			[
+				"damage",
+				"damage_"
+			],
+			[
+				"elemtan",
+				"elemental_spirit_change"
+			],
+			[
+				"elemental",
+				"elemental_spirit_ulti_int"
+			],
+			[
+				"setmodifer",
+				"SetModifierStackCount"
+			],
+			[
+				"getmagic",
+				"GetMagicalArmorValue"
+			],
+			[
+				"getass",
+				"GetAssignedHero"
+			],
+			[
+				"getgold",
+				"GetGold"
+			],
+			[
+				"GETASSI",
+				"GetAssignedHero	Get the player's hero."
+			],
+			[
+				"a",
+				"abc"
+			],
+			[
+				"gethero",
+				"GetAssignedHero"
+			],
+			[
+				"getowner",
+				"GetOwner"
+			],
+			[
+				"abilitytype",
+				"abilityTypeBasic"
+			],
+			[
+				"parit",
+				"ParticleManager"
+			],
+			[
+				"getab",
+				"GetAbsOrigin"
+			],
+			[
+				"getmana",
+				"GetMaxMana"
+			],
+			[
+				"isvu",
+				"IsInvulnerable"
+			],
+			[
+				"enem",
+				"enemy"
+			],
+			[
+				"Getcursor",
+				"GetCursorPosition"
+			],
+			[
+				"apply",
+				"ApplyDataDrivenModifier"
+			],
+			[
+				"funcion",
+				"function	function"
+			],
+			[
+				"GetCooldwo",
+				"GetCooldown"
+			],
+			[
+				"min",
+				"minions_1"
+			],
+			[
+				"register",
+				"registerMinionType"
+			],
+			[
+				"local",
+				"local_minion"
+			],
+			[
+				"highest",
+				"highestDamagenear"
+			],
+			[
+				"high",
+				"highestDamagenear"
+			],
+			[
+				"npc",
+				"npcAlly"
+			],
+			[
+				"hero",
+				"heroes"
+			],
+			[
+				"abil",
+				"abilitybuild"
+			],
+			[
+				"ability",
+				"ability_name"
+			],
+			[
+				"abi",
+				"abilitybuild"
+			],
+			[
+				"getsel",
+				"GetSelectedHeroName"
+			],
+			[
+				"random",
+				"randomHero"
+			],
+			[
+				"wri",
+				"writeFile"
+			],
+			[
+				"TEAM_",
+				"TEAM_DIRE"
+			],
+			[
+				"GetGame",
+				"GetGameMode"
+			],
+			[
+				"bot_action",
+				"BOT_ACTION_DESIRE_HIGH"
+			],
+			[
+				"BOT",
+				"BOT_MODE_GANK"
+			],
+			[
+				"getitem",
+				"GetItemInSlot"
+			],
+			[
+				"post",
+				"Position"
+			],
+			[
+				"npc_h",
+				"npc_dota_hero_bristleback"
+			],
+			[
+				"getc",
+				"GetContextPanel"
+			],
+			[
+				"playerse",
+				"playerSelectHero"
+			],
+			[
+				"marig",
+				"margin-top"
+			],
+			[
+				"name",
+				"localized_name"
+			],
+			[
+				"playerpics",
+				"playerpicsap"
+			],
+			[
+				"her",
+				"heroesnamesSorted"
+			],
+			[
+				"val",
+				"valuee"
+			],
+			[
+				"getchi",
+				"GetChildCount"
+			],
+			[
+				"marign",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"dota_team",
+				"DOTA_TEAM_CUSTOM_1"
+			],
+			[
+				"DOTA_TEAM",
+				"DOTA_TEAM_CUSTOM_1"
+			],
+			[
+				"onhero",
+				"OnHeroPicked"
+			],
+			[
+				"setrespawn",
+				"SetHeroRespawnEnabled"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"abili",
+				"ability"
+			],
+			[
+				"button",
+				"button_cast"
+			],
+			[
+				"SPELL",
+				"SPELL_TYPE_TARGET"
+			],
+			[
+				"rea",
+				"relative"
+			],
+			[
+				"act",
+				"actions"
+			],
+			[
+				"Game",
+				"GameEvents"
+			],
+			[
+				"getplayerown",
+				"GetPlayerOwner"
+			],
+			[
+				"option",
+				"optionaltable_values"
+			],
+			[
+				"actio",
+				"ACTION_NEED_TARGET"
+			],
+			[
+				"Ability",
+				"AbilityCreator"
+			],
+			[
+				"SPELL_EF",
+				"SPELL_EFFECT_STATS_STR"
+			],
+			[
+				"SPEL",
+				"SPELL_ACTION_HEAL"
+			],
+			[
+				"number",
+				"numberManaD"
+			],
+			[
+				"SETMANA",
+				"SetMana"
+			],
+			[
+				"co",
+				"contains_what"
+			],
+			[
+				"stu",
+				"IsStunned"
+			],
+			[
+				"SPELL_aCTION",
+				"SPELL_ACTION_DAMAGE"
+			],
+			[
+				"the",
+				"then"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "-- Generated from template\nLinkLuaModifier( \"green_greevil_heal_passive_modi\", LUA_MODIFIER_MOTION_NONE )\n\nif CAddonTemplateGameMode == nil then\n	CAddonTemplateGameMode = class({})\nend\n\nfunction Precache( context )\n	--[[\n		Precache things we know we'll use.  Possible file types include (but not limited to):\n			PrecacheResource( \"model\", \"*.vmdl\", context )\n			PrecacheResource( \"soundfile\", \"*.vsndevts\", context )\n			PrecacheResource( \"particle\", \"*.vpcf\", context )\n			PrecacheResource( \"particle_folder\", \"particles/folder\", context )\n	]]\nend\n\nfunction CAddonTemplateGameMode:OnNPCSpawned( keys )\n	local npc = EntIndexToHScript(keys.entindex)\n\n	if npc:IsRealHero() and (npc:GetClassname() == \"npc_dota_hero_tusk\") then\n		if not npc:GetAbilityByIndex(1):IsTrained() then\n			npc:GetAbilityByIndex(1):SetLevel(1)\n		end\n	end\n\n\nend\n\n-- Create the game mode when we activate\nfunction Activate()\n	GameRules.AddonTemplate = CAddonTemplateGameMode()\n	GameRules.AddonTemplate:InitGameMode()\nend\n\nfunction CAddonTemplateGameMode:InitGameMode()\n	print( \"Template addon is loaded.\" )\n	GameRules:GetGameModeEntity():SetThink( \"OnThink\", self, \"GlobalThink\", 2 )\n	ListenToGameEvent('npc_spawned', Dynamic_Wrap(CAddonTemplateGameMode, 'OnNPCSpawned'), self)\n\nend\n\n-- Evaluate the state of the game\nfunction CAddonTemplateGameMode:OnThink()\n	if GameRules:State_Get() == DOTA_GAMERULES_STATE_GAME_IN_PROGRESS then\n	elseif GameRules:State_Get() >= DOTA_GAMERULES_STATE_POST_GAME then\n		return nil\n	end\n	return 1\nend",
+			"file": "addon_game_mode.lua",
+			"file_size": 1707,
+			"file_write_time": 131504161255451375,
+			"settings":
+			{
+				"buffer_size": 1501,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "greevil_master_spawn_greevil.lua",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/npc/npc_units_custom.txt",
+			"settings":
+			{
+				"buffer_size": 1011,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change.lua",
+			"settings":
+			{
+				"buffer_size": 1825,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change_bonus.lua",
+			"settings":
+			{
+				"buffer_size": 447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/npc/npc_abilities_custom.txt",
+			"settings":
+			{
+				"buffer_size": 2009,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "green_greevil_heal_passive.lua",
+			"settings":
+			{
+				"buffer_size": 326,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "green_greevil_die_passive.lua",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "green_greevil_die_passive_modi.lua",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "green_greevil_die_passive_owner_modi.lua",
+			"settings":
+			{
+				"buffer_size": 380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "green_greevil_heal_modi = class({})\n\nheal = 0\n\nfunction green_greevil_heal_modi:DeclareFunctions()\n\n	local funcs = {\n		MODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE,\n	}\n \n	return funcs\nend\n\nfunction green_greevil_heal_modi:IsHidden()\n	return false\nend\nfunction green_greevil_heal_modi:GetModifierHealthRegenPercentage( params )\n	return (100 - self:GetParent():GetHealthPercent()) * .25\n\n \n	\n\nend",
+			"file": "green_greevil_heal_modi.lua",
+			"file_size": 412,
+			"file_write_time": 131504156275104049,
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "green_greevil_heal_passive_modi.lua",
+			"settings":
+			{
+				"buffer_size": 792,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "green_greevil_heal.lua",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_ulti_int_thinker.lua",
+			"settings":
+			{
+				"buffer_size": 2694,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"kill",
+				"Snippet: modf owner killed anything"
+			],
+			[
+				"projectile",
+				"Snippet: Creates a tracking projectile"
+			],
+			[
+				"createlin",
+				"Snippet: Creates a linear projectile and returns the projectile ID"
+			],
+			[
+				"apply",
+				"Snippet: Constantly Apply Modifier"
+			],
+			[
+				"runsc",
+				"Snippet: Run a lua script"
+			],
+			[
+				"modifier",
+				"Snippet: Removes a modifier that was cast by the given caster"
+			],
+			[
+				"castpo",
+				"Snippet: Finished Cast Point"
+			],
+			[
+				"runsr",
+				"Snippet: Run a lua script"
+			],
+			[
+				"mana",
+				"Snippet: Set the mana on this unit."
+			],
+			[
+				"player",
+				"Snippet: Value is stored in PlayerResource."
+			],
+			[
+				"think",
+				"Snippet: Entity Thinker"
+			],
+			[
+				"forcehero",
+				"Snippet: (playerID, entity) - force the given player's camera to follow the given entity"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"replacehero",
+				"Snippet: (playerID, heroClassName, gold, XP) - replaces the player's hero with a new one of the specified class, gold and XP"
+			],
+			[
+				"proper",
+				"Snippet: Set Purge Properties"
+			],
+			[
+				"abi",
+				"Snippet: ability_datadriven"
+			],
+			[
+				"damage",
+				"Snippet: Deal Damage on Target"
+			],
+			[
+				"event",
+				"Snippet: modifier event"
+			],
+			[
+				"random",
+				"Snippet: Random chance"
+			],
+			[
+				"modifiers",
+				"Snippet: Applies modifier_stunned"
+			],
+			[
+				"abiltiy",
+				"Snippet: ability_datadriven"
+			],
+			[
+				"ability",
+				"Snippet: ability_datadriven"
+			],
+			[
+				"behavir",
+				"Snippet: BEHAVIOR_TOGGLE"
+			],
+			[
+				"snippet apply",
+				"Snippet: Apply Modifier Properties"
+			],
+			[
+				"snippet create",
+				"Snippet: Create LinearProjectile"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/vscripts/meme.sublime-workspace",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/vscripts/green_greevil_die_passive_owner_modi.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/turn_rate/scripts/vscripts/addon_game_mode.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/turn_rate/scripts/vscripts/turn_rate_modifier.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/npc/npc_units_custom.txt",
+		"/C/Users/taylo_000/AppData/Local/Temp/addon_game_mode.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/npc/npc_heroes.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/npc/npc_abilities.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/npc/npc_abilities_custom.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/npc/npc_heroes_custom.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_ulti_str_thinker.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_ulti_str_aura.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_ulti_int_slow.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/vscripts/green_greevil_heal_modi.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_ulti_int_thinker.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_ulti_int.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/npc/npc_abilities_custom.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/vscripts/greevil_master_abilites.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/npc/npc_units.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/hero_swap/panorama/layout/custom_game/ingame_ui.xml",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/hero_swap/panorama/scripts/custom_game/ingame_ui.js",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/hero_swap/panorama/styles/custom_game/ingame_ui.css",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/hero_swap/panorama/layout/custom_game/custom_ui_manifest.xml",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/hero_swap/panorama/styles/custom_game/custom_loading_screen.css",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/hero_swap/panorama/layout/custom_game/custom_loading_screen.xml",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/hero_swap/scripts/vscripts/addon_game_mode.lua",
+		"/C/Users/taylo_000/Desktop/a/Frostivus Competition/game/frostivus_comp/scripts/vscripts/addon_game_mode.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/util.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/gamemode.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/events.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/mojs.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/hero_swap/panorama/scripts/custom_game/key_binding.js",
+		"/C/Users/taylo_000/Desktop/a/FIOR THE MEMES/scoreboard_flyout.vcss_c",
+		"/C/Users/taylo_000/Desktop/a/FIOR THE MEMES/hero_selection.vcss_c",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/abcx/panorama/layout/custom_game/hero_selection.xml",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/hero_swap/panorama/layout/custom_game/hero_selection.xml",
+		"/C/Users/taylo_000/Desktop/a/unit/HearthStone-Recreation/Hearthstone-Recreation_Data/Resources/Mods/test/mod.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/warlock_hero.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/mage_hero.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/desto_card.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/mod.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/don_hancho_card.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/ana_card.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spy/scripts/npc/npc_heroes_custom.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spy/scripts/vscripts/spy_hero_swap_scr.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spy/scripts/npc/npc_abilities_custom.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/npc/npc_heroes_custom.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_toggle_str_aura.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_toggle_str_thinker.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_toggle_str.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change3.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/abcx/scripts/vscripts/addon_game_mode.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change2.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_passive_int_modifier.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_passive_int.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_ulti_str.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/addon_game_mode.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/statistics.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/player.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_q_int.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change_bonus3.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/new_bloom_2017/scripts/vscripts/addon_game_mode.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change_bonus.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change_bonus2.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/spike_trap.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/modifier_imba_speed_limit_break.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/modifier_imba_prevent_actions_game_start.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/modifier_imba_haste_rune_speed_limit_break.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/modifier_imba_haste_boots_speed_break.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/modifier_imba_frantic.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/modifier_imba_chronosphere_ally_slow.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/modifier_imba_arena_passive_gold_thinker.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/black_hole.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/modifier_fountain_aura_effect_lua.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change_agi.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change_int.lua",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/smorc_card.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/mage_hero_power.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/Hammerwatch/editor/level_horror/music.xml",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/ability_item_usage_generic.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/hero_selection.lua",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/smorc_card5.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/smorc_card4.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/smorc_card3.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/smorc_card2.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Mods/test/smorc_card1.txt",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Lua/abc.lua",
+		"/C/Users/taylo_000/Documents/Hearthstone/Assets/Resources/Lua/hello_card.txt",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/mode_defend_ally_generic.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots_mine/hero_selection.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/team_desires.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/ability_item_usage_legion_commander.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/ability_item_usage_ogre_magi.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots_example/ability_item_usage_lina.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/abcx/panorama/scripts/custom_game/key_binding.js",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/overthrow/panorama/layout/custom_game/custom_loading_screen.xml",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/content/dota_addons/abcx/panorama/layout/custom_game/custom_ui_manifest.xml",
+		"/C/Program Files (x86)/Steam/SteamApps/common/The Binding of Isaac Rebirth/resources/players.xml",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/ability_item_usage_shadow_demon.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/modifier_spellcaster.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/ability_item_usage_techies.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/ability_item_usage_tinker.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/item_purchase_ogre_magi.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/item_purchase_meepo.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/item_builds.lua",
+		"/C/Users/taylo_000/Desktop/a/lua scripts/main.lua",
+		"/C/Users/taylo_000/Desktop/a/lua scripts/json.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots_example/ability_item_usage_generic.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots_example/ability_item_usage_sven.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/item_purchase_orge_magi.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots_example/team_desires.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots_example/item_purchase_lina.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots/heroes.json",
+		"/E/Games/Steam/steamapps/common/dota 2 test/game/dota/scripts/vscripts/bots/ability_item_usage_lina.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 test/game/dota/scripts/vscripts/bots/ability_item_usage_generic.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 test/game/dota/scripts/vscripts/bots/hero_selection.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 test/game/dota/scripts/vscripts/bots_example/team_desires.lua",
+		"/E/Games/Steam/steamapps/common/dota 2 test/game/dota/scripts/vscripts/bots/a/hero_selection.lua",
+		"/C/Users/taylo_000/Desktop/a/TIC ADDON PART 2/eclipse_formatter.xml",
+		"/C/Users/taylo_000/AppData/Local/Temp/stats.lua",
+		"/J/Games/SteamApps/common/dota 2 beta/game/dota_addons/suh/scripts/vscripts/addon_game_mode.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/Rar$DIa0.295/tasklist.xml",
+		"/C/Users/taylo_000/AppData/Local/Temp/Rar$DIa0.538/repositories.xml",
+		"/C/Users/taylo_000/AppData/Local/Temp/debug_util.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/quests.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/level.lua",
+		"/C/Users/taylo_000/AppData/Local/Temp/polygon.lua"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"\n",
+			"hero_change",
+			"juggernaut",
+			"swappe",
+			"rank",
+			"end",
+			"attributeprimary",
+			"agility",
+			"ApplyDataDrivenModifier",
+			"abilitylayout",
+			"special",
+			"getteam",
+			"monkey",
+			"root",
+			"level",
+			"blood",
+			"hitler",
+			"ignite",
+			"'",
+			"onloc",
+			"lina",
+			"team",
+			"winnerTeam",
+			"winner",
+			"roundNumber",
+			"team",
+			"players",
+			"Players",
+			"GetSelectedMode",
+			"MODE",
+			"GAME_VERSION",
+			"OnMatchResultsReceived",
+			"host",
+			"OnMatchResultsReceived",
+			"SubmitMatchResult",
+			"OnMatchResultsReceived",
+			"rankDetails",
+			"OnMatchResultsReceived",
+			"ranks",
+			"rank",
+			"ranks",
+			"rank",
+			"banned",
+			"baum",
+			"baumi",
+			"refreshPlayerHeroes",
+			"color",
+			"id=",
+			"playerSelects",
+			"event_data",
+			"GameRules",
+			"screen",
+			"picking",
+			"spawnTheHero",
+			"spawnPlayer",
+			"spawn",
+			"setSelectedHero",
+			"force",
+			"setEndOfPhase",
+			"setPhase",
+			"picking",
+			"visible",
+			"exit",
+			"setEndOfPhase",
+			"checkForReady",
+			"onPlayerReady",
+			"spawnPlayer",
+			"onPlayerAskForHero",
+			"lodSpawnHero",
+			"heroName",
+			"precache",
+			"onPlayerAskForHero",
+			"lodSpawnHero",
+			"selectHero",
+			"value",
+			"star",
+			"hasscep",
+			"dota",
+			"SendToServerConsole",
+			"bots",
+			"SendToServerConsole",
+			"bot",
+			"cont",
+			"IsControllableByAnyPlayer",
+			"DOTA_TEAM_CUSTOM_1",
+			"bot",
+			"addAbility",
+			"FALSEHERO",
+			"AddNotification",
+			"TopNotification",
+			"top_notification",
+			"TopNotification",
+			"HeroSelectA",
+			"player",
+			"event",
+			"gradient",
+			"TitleText",
+			"BottomNotifications",
+			"TopNotifications",
+			"AddNotification",
+			"TopNotification",
+			"font",
+			"lastNotification",
+			"font",
+			"PROJECTILES_NOTHING",
+			"Attachment_DoAttach",
+			"rollDice",
+			"CAddonTemplateGameMode",
+			"DotaBallers",
+			"spawn_unit",
+			"event",
+			"event'",
+			"OnHeroPick",
+			"courier",
+			"hero",
+			"spawn",
+			"libraries",
+			"playersselected",
+			"HeroSelectA",
+			"hero_select",
+			"HeroSelectA",
+			"back",
+			">\n",
+			"CAddonTemplateGameMode",
+			"for",
+			"EndAnimation",
+			"Attachment_UpdateUnit",
+			"new"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "addon_game_mode.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								832,
+								832
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "greevil_master_spawn_greevil.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/npc/npc_units_custom.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Dota KV/dotaKV.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1518,
+								1518
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_change_bonus.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/frostivus_comp/scripts/npc/npc_abilities_custom.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Dota KV/dotaKV.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "green_greevil_heal_passive.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "green_greevil_die_passive.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "green_greevil_die_passive_modi.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "green_greevil_die_passive_owner_modi.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "green_greevil_heal_modi.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								391
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "green_greevil_heal_passive_modi.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "green_greevil_heal.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/E/Games/Steam/steamapps/common/dota 2 beta/game/dota_addons/spirit/scripts/vscripts/elemental_spirit_ulti_int_thinker.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								952
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Lua Dota/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 37.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
