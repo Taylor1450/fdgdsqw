@@ -1,49 +1,87 @@
-// Dota Heroes File
 "DOTAAbilities"
 {
 	"Version"		"1"
 
-	//=================================================================================================================
-	// Templar Assassin: Refraction Holdout
-	//=================================================================================================================
-	"templar_assassin_refraction_holdout"
+	"greevil_master_spawn_greevil"
 	{
-		// General
-		//-------------------------------------------------------------------------------------------------------------
-		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
-		"AbilityUnitDamageType"			"DAMAGE_TYPE_PHYSICAL"	
+		"BaseClass"             		"ability_lua"
+		"ScriptFile"					"greevil_master_spawn_greevil"
+  		"AbilityCastAnimation"   		"ACT_DOTA_CAST_ABILITY_3"
 
-		// Casting
-		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCastPoint"				"0.0 0.0 0.0 0.0"
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+		"AbilityCastPoint"				"0.4"
 
-		// Time		
-		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"17.0 17.0 17.0 17.0"
+		"AbilityCooldown"				"8.0"
+	
 
-		// Cost
-		//-------------------------------------------------------------------------------------------------------------
-		"AbilityManaCost"				"100"
-		
-		// Special
-		//-------------------------------------------------------------------------------------------------------------
-		"AbilitySpecial"
-		{
-			"01"
-			{
-				"var_type"					"FIELD_INTEGER"
-				"damage_absorb"				"200 300 400 500"
-			}
-			"02"
-			{
-				"var_type"					"FIELD_INTEGER"
-				"bonus_damage"				"20 40 60 80"
-			}
-			"04"
-			{
-				"var_type"					"FIELD_FLOAT"
-				"duration"					"17.0 17.0 17.0 17.0"
-			}
-		}
 	}
+
+	"greevil_change_greevil"
+	{
+		    "BaseClass"             		"ability_datadriven"
+
+			"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+			"MaxLevel"						"1"
+
+	}
+
+	"greevil_aura"
+	{
+		    "BaseClass"             		"ability_datadriven"
+
+			"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE | DOTA_ABILITY_BEHAVIOR_AURA"
+
+	}
+
+	"greevil_transform"
+	{
+		"BaseClass"             		"ability_datadriven"
+
+		"AbilityType"					"DOTA_ABILITY_TYPE_ULTIMATE"
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+		"AbilityCastPoint"				"0.3"
+
+	}
+
+
+	"green_greevil_heal"
+	{
+		"BaseClass"             		"ability_lua"
+		"ScriptFile"					"green_greevil_heal"
+		"AbilityCastAnimation"   		"0"
+
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+
+		"AbilityCastPoint"				"0.2"
+
+		"AbilityCooldown"				"5.0"
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC | DOTA_UNIT_TARGET_MECHANICAL | DOTA_UNIT_TARGET_BUILDING | DOTA_UNIT_TARGET_CREEP"
+
+	}
+
+	"green_greevil_heal_passive"
+	{
+		"BaseClass"             		"ability_lua"
+		"ScriptFile"					"green_greevil_heal_passive"
+
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO"
+
+	}
+
+	"green_greevil_die_passive"
+	{
+		"BaseClass"             		"ability_lua"
+		"ScriptFile"					"green_greevil_die_passive"
+
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO"
+
+	}
+
 }
