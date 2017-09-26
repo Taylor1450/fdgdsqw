@@ -1,0 +1,8 @@
+frostivus_comp_map
+{
+	material materials/overviews/frostivus_comp_map.vmat
+	pos_x -16384
+	pos_y 16384
+	scale 32.000
+}
+
